@@ -25,8 +25,11 @@ This version of Omnis Studio does support multiple custom themes. The following 
 1. Select the theme in de list under **Custom Themes** and click **Apply Custom Theme**.
 
 ## Contributing
-Please feel free to fork this repository and create your own themes. If you want you can ask for a pull-request to incorporate them in this repository. To get the pull-request apporved you have to provide the .json theme file along with a screenshot of how the theme looks like in the method editor containing some sample code.
+Please feel free to fork this repository and create your own themes. The [Omnis Studio Programming Guide](http://www.omnis.net/documentation/programming/index.jsp?detail=01omnistools.html#color-themes-and-appearance) has a chapter how to get started.
+
+If you want you can ask for a pull-request to incorporate them in this repository. To get the pull-request apporved you have to provide the .json theme file along with a screenshot of how the theme looks like in the method editor containing some sample code.
 
 
 ## TODO
-* sample code file
+* Contributing guide
+* Creating your own theme guide
