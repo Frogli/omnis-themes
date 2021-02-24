@@ -2,20 +2,13 @@
 A collection of themes for the Omnis Studio environment.
 
 ## Requirements
-* Omnis Studio 8.0 or later
+* Omnis Studio 10.2 or later
 
 ## Installation
-### Omnis Studio 8.0.x
+### Omnis Studio 10.2.x
 This version of Omnis Studio does support multiple custom themes. The following steps describe how to install a theme.
 
-1. Copy the .json file into **Omnis Studio 8.0.x.app/studio/themes/** folder.
-1. Rename the theme to **appthemecustom.json**
-1. Start Omnis Studio. 
-1. Open the **Omnis Studio Browser**.
-1. Click in the tree at the left on **Hub**, *Options**
-1. Under **Appearance** select the theme **Custom**
-
-### Omnis Studio 8.1.x
+### Omnis Studio 10.2.x
 
 1. Open the **Omnis Studio Browser**
 1. Click in the tree at the left on **Hub**, *Options**, tab **Themes**
